@@ -118,13 +118,3 @@ To proceed:
 - The app is not blocked by antivirus
 
 ---
-
-## Future Improvements
-
-- Batch conversion support
-- Drag-and-drop multiple files
-- Custom output folder selection
-- Image quality settings
-
----
-
