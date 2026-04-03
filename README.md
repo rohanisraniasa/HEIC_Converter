@@ -128,12 +128,3 @@ To proceed:
 
 ---
 
-## License
-
-Add your license here (e.g., MIT License)
-
----
-
-## Contact
-
-For support, suggestions, or bug reports:
