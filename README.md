@@ -2,7 +2,7 @@
 
 A lightweight desktop application that converts `.heic` image files into widely supported formats such as `.jpg` and `.png`.
 
-This tool is designed to be simple and easy to use — **no installation, coding, or setup required**.
+This tool is designed to be simple and easy to use — **no installation, coding required**.
 
 ---
 
